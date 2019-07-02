@@ -1,7 +1,10 @@
 # GitHub Web Scraper
 
 
-    This project is an exercise in web scraping using the Nokogiri library to crawl the GitHub weekly trending page, display the trending repositories, seed a database, and construct an API endpoint. It currently consists of a rails backend and a command line interface.
+    This project is an exercise in web scraping using the Nokogiri library
+    to crawl the GitHub weekly trending page, display the trending
+    repositories, seed a database, and construct an API endpoint.
+    It currently consists of a rails backend and a command line interface.
 
     The following is a list of instructions for using and testing this program:
 
